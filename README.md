@@ -2,7 +2,7 @@
 - 👀 I’m interested in python for data science
 - 🌱 I’m currently learning mysql
 - 💞️ I’m looking to collaborate on new data challenges
-- 📫 How to reach me by my linkedin https://www.linkedin.com/in/joão-lucas-dos-santos-medeiros-452ab127b/
+- 📫 Reach me by my linkedin https://www.linkedin.com/in/joão-lucas-dos-santos-medeiros-452ab127b/
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: i work on the biggest coffe company of brazil. 💛💚❤️
 
